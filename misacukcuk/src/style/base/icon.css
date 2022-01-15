@@ -1,0 +1,85 @@
+.icon-side {
+    background-position: -424px -86px !important;
+}
+
+.icon-tongquan {
+    background-position: -30px -1628px !important;
+}
+
+.icon-tienmat {
+    background-position: -73px -1628px !important;
+}
+
+.icon-tiengui {
+    background-position: -117px -1628px !important;
+}
+
+.icon-muahang {
+    background-position: -161px -1628px !important;
+}
+
+.icon-banhang {
+    background-position: -204px -1628px !important;
+}
+
+.icon-hoadon {
+    background-position: -249px -1628px !important;
+}
+
+.icon-kho {
+    background-position: -291px -1628px !important;
+}
+
+.icon-dungcu {
+    background-position: -336px -1628px !important;
+}
+
+.icon-taisan {
+    background-position: -378px -1630px !important;
+}
+
+.icon-thue {
+    background-position: -423px -1630px !important;
+}
+
+.icon-giathanh {
+    background-position: -467px -1628px !important;
+}
+
+.icon-tonghop {
+    background-position: -510px -1628px !important;
+}
+
+.icon-ngansach {
+    background-position: -378px -1659px !important;
+}
+
+.icon-baocao {
+    background-position: -547px -1628px !important;
+}
+
+.icon-taichinh {
+    background-position: -204px -1664px !important;
+}
+.icon-refresh {
+    background-position: -423px -201px !important;
+}
+.icon-arrow-up{
+    background-position: -896px -359px !important;
+}
+
+.dialog-question-buton {
+    background-position: -89px -144px !important;
+    margin-right: 5px;
+}
+.dialog-question-buton:hover, .dialog-close-button:hover {
+    background-color: #bbb;
+}
+
+.dialog-close-button {
+    background-position: -144px -144px !important;
+    
+}
+.icon-nav{
+    background: url('../../assets/Sprites.64af8f61.svg') no-repeat;;
+}
